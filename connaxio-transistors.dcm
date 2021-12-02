@@ -1,0 +1,13 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP TRX_2PNP_BCM857BS,135
+D TRANS 2PNP 45V 0.1A 6TSSOP
+F https://assets.nexperia.com/documents/data-sheet/BCM857BV_BS_DS.pdf
+$ENDCMP
+#
+$CMP TRX_PMOS_SSM3J372R,LF
+D MOSFET P-CH 30V 6A SOT23F
+F https://www.mouser.com/datasheet/2/408/SSM3J372R_datasheet_en_20170713-1528145.pdf
+$ENDCMP
+#
+#End Doc Library
