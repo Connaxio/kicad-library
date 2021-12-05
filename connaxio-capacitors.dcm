@@ -1,23 +1,37 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP CAP_CER_CL05A104KA5NNNC
-D CAP CER 0.1UF 25V X5R 0402
-F https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05A104KA5NNNC/3886701
+$CMP CAPAE_A750EQ567M1AAAE012
+D CAP ALUM POLY 560UF 20% 10V T/H
+F https://content.kemet.com/datasheets/KEM_A4067_A750.pdf
 $ENDCMP
 #
-$CMP CAP_CER_CL05C050CB5NNNC
+$CMP CAPAE_ESK226M100AE3AA
+D CAP ALUM 22UF 20% 100V RADIAL
+F https://content.kemet.com/datasheets/KEM_A4004_ESK.pdf
+$ENDCMP
+#
+$CMP CAPC_CL05A104KA5NNNC
+D CAP CER 0.1UF 25V X5R 0402
+F https://media.digikey.com/pdf/Data%20Sheets/Samsung%20PDFs/CL05A104KA5NNNC.pdf
+$ENDCMP
+#
+$CMP CAPC_CL05C050CB5NNNC
 D CAP CER 5PF 50V C0G/NP0 0402
 F https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05C050CB5NNNC/3887262
 $ENDCMP
 #
-$CMP CAP_CER_CL21A226MPQNNNE
+$CMP CAPC_CL21A226MPQNNNE
 D CAP CER 22UF 10V X5R 0805
 F https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL21A226MPQNNNE/3888568
 $ENDCMP
 #
-$CMP CAP_CER_CL21B104KCFSFNE
+$CMP CAPC_CL21B104KCFSFNE
 D CAP CER 0.1UF 100V X7R 0805
 F https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL21B104KCFSFNE/3888581
+$ENDCMP
+#
+$CMP CAPC_DNI_0402
+D CAP CER DNI 0402
 $ENDCMP
 #
 #End Doc Library

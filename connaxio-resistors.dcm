@@ -1,21 +1,21 @@
 EESchema-DOCLIB  Version 2.0
 #
-$CMP RES_RMCF0402FT12K4
+$CMP RESC_RMCF0402FT12K4
 D RES 12.4K OHM 1% 1/16W 0402
 F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
 $ENDCMP
 #
-$CMP RES_RMCF0402FT169K
+$CMP RESC_RMCF0402FT169K
 D RES 169K OHM 1% 1/16W 0402
 F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
 $ENDCMP
 #
-$CMP RES_RMCF0402FT226R
+$CMP RESC_RMCF0402FT226R
 D RES 226 OHM 1% 1/16W 0402
 F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
 $ENDCMP
 #
-$CMP RES_RMCF0402FT5K10
+$CMP RESC_RMCF0402FT5K10
 D RES 5.1K OHM 1% 1/16W 0402
 F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
 $ENDCMP
