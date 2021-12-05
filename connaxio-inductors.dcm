@@ -10,4 +10,9 @@ D FIXED IND 4.7UH 950MA 387MOHM 0806
 F www.cyntec.com/upfile/products/download/SDED20161T-000%20(A6).pdf
 $ENDCMP
 #
+$CMP XFMR_PA3855.002NLT
+D TRANSFORMER FLYBACK 48UH SMD
+F https://productfinder.pulseeng.com/products/datasheets/P719.pdf
+$ENDCMP
+#
 #End Doc Library

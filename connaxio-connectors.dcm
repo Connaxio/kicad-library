@@ -1,3 +1,8 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP CON_ETH_POE+_ARJM11C7-104-AB-EW2
+D CONN JACK 1PORT 100 BASE-T PCB
+F https://abracon.com/Magnetics/ARJM11.pdf
+$ENDCMP
+#
 #End Doc Library
