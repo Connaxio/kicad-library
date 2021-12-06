@@ -5,4 +5,9 @@ D CONN JACK 1PORT 100 BASE-T PCB
 F https://abracon.com/Magnetics/ARJM11.pdf
 $ENDCMP
 #
+$CMP CON_USB-C_USB4105-GF-A
+D CONN RCP USB2.0 TYP C 24P SMD RA
+F https://gct.co/files/drawings/usb4105.pdf
+$ENDCMP
+#
 #End Doc Library

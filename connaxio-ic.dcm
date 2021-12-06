@@ -1,3 +1,13 @@
 EESchema-DOCLIB  Version 2.0
 #
+$CMP PHY_ETH_KSZ8091RNAIA-TR
+D IC TRANSCEIVER FULL 1/1 24QFN
+F https://ww1.microchip.com/downloads/en/DeviceDoc/00002298A.pdf
+$ENDCMP
+#
+$CMP PHY_USB_CP2102N-A02-GQFN24
+D IC TRANSCEIVER FULL 1/1 24QFN
+F https://www.silabs.com/documents/public/data-sheets/cp2102n-datasheet.pdf
+$ENDCMP
+#
 #End Doc Library

@@ -5,6 +5,11 @@ D IC POE CNTRL 1 CHANNEL 10DFN
 F https://www.onsemi.com/pdf/datasheet/ncp1093-d.pdf
 $ENDCMP
 #
+$CMP REG_LDO_AP2114HA-3.3TRG1
+D IC REG LINEAR 3.3V 1A SOT223
+F https://www.diodes.com/assets/Datasheets/AP2114.pdf
+$ENDCMP
+#
 $CMP REG_SWI_MP6004GQ-Z
 D IC REG BCK FLYBCK ADJ 3A 14QFN
 F https://www.monolithicpower.com/en/documentview/productdocument/index/version/2/document_type/Datasheet/lang/en/sku/MP6004/document_id/1864
