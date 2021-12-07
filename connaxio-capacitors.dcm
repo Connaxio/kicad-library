@@ -25,6 +25,11 @@ D CAP CER 5PF 50V C0G/NP0 0402
 F https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05C050CB5NNNC/3887262
 $ENDCMP
 #
+$CMP CAP_CER_CL05C300JB5NNNC
+D CAP CER 30PF 50V C0G/NP0 0402
+F https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL05C300JB5NNNC/3887340
+$ENDCMP
+#
 $CMP CAP_CER_CL21A226MPQNNNE
 D CAP CER 22UF 10V X5R 0805
 F https://www.digikey.ca/en/products/detail/samsung-electro-mechanics/CL21A226MPQNNNE/3888568

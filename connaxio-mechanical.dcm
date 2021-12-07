@@ -1,0 +1,11 @@
+EESchema-DOCLIB  Version 2.0
+#
+$CMP MTH_M2.5_PTH_CORNER
+D MTH M2.5 with corner copper removed
+$ENDCMP
+#
+$CMP MTH_M2.5_PTH_EDGE
+D MTH M2.5 with edge copper removed
+$ENDCMP
+#
+#End Doc Library
