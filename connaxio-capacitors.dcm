@@ -5,6 +5,11 @@ D CAP ALUM POLY 560UF 20% 10V T/H
 F https://content.kemet.com/datasheets/KEM_A4067_A750.pdf
 $ENDCMP
 #
+$CMP CAP_AE_A750KK107M1EAAE040
+D CAP ALUM POLY 100UF 20% 25V T/H
+F https://content.kemet.com/datasheets/KEM_A4067_A750.pdf
+$ENDCMP
+#
 $CMP CAP_AE_ESK226M100AE3AA
 D CAP ALUM 22UF 20% 100V RADIAL
 F https://content.kemet.com/datasheets/KEM_A4004_ESK.pdf
