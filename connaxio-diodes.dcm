@@ -10,6 +10,16 @@ D DIODE GEN PURP 200V 1A SMA
 F http://www.smc-diodes.com/propdf/S1A-S1M%20N0560%20REV.B.pdf
 $ENDCMP
 #
+$CMP DIO_SBD_SL510AFL-TP
+D DIODE SCHOTTKY 100V 5A SMA-FL
+F https://www.mccsemi.com/pdf/Products/SL54AFL-SL510AFL(DO-221AC).pdf
+$ENDCMP
+#
+$CMP DIO_SBD_V8PA10-M3_I
+D DIODE SCHOTTKY 100V 8A DO221BC
+F https://www.vishay.com/docs/87659/v8pa10.pdf
+$ENDCMP
+#
 $CMP DIO_TVS_ESDALD05UD4X
 D BRIDGE RECT 1PHASE 1KV 1A 4SOPA
 F https://www.ween-semi.com/sites/default/files/2021-05/ESDALD05UD4.pdf

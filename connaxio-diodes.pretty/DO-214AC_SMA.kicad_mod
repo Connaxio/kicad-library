@@ -1,4 +1,4 @@
-(module DO-214AC_SMA (layer F.Cu) (tedit 61ABFF37)
+(module DO-214AC_SMA (layer F.Cu) (tedit 61B289AA)
   (descr "Diode SMA (DO-214AC)")
   (tags "Diode SMA (DO-214AC)")
   (solder_mask_margin 0.05)
