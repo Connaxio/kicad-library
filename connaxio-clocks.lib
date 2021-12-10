@@ -14,8 +14,8 @@ F6 "4-SMD_3.2X2.5" 286 322 50 H I C CNN "Package"
 F7 "No" 62 518 50 H I C CNN "Polarized"
 F8 "-40°C to +85°C" 318 224 50 H I C CNN "Temperature"
 F9 "±20ppm" -14 948 50 H I L CNN "Tolerance"
-F10 "20pF" 500 -300 50 H V R CNN "Load capacitance"
-F11 "25MHz" 0 -300 50 H V L CNN "Frequency"
+F10 "20pF" 500 -300 50 H V R CNN "Note"
+F11 "25MHz" 0 -300 50 H V L CNN "Property"
 DRAW
 S 0 0 500 -350 0 1 0 f
 P 2 0 1 0 230 -170 310 -170 N

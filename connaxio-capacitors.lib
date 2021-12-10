@@ -8,7 +8,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_AE_A750EQ567M1AAAE012" 575 735 50 H I C CNN
 F2 "connaxio-capacitors:CAP_AE_RAD_D6.3_H12.5_P2.5" 945 555 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "560µF" 50 50 50 H V L CNN "Capacitance"
+F4 "560µF" 50 50 50 H V L CNN "Property"
 F5 "4.1A at 100kHz" 290 455 50 H I C CNN "Current"
 F6 "KEMET" 120 1095 50 H I C CNN "Manufacturer"
 F7 "A750EQ567M1AAAE012" 465 820 50 H I C CNN "Manufacturer Part Number"
@@ -36,7 +36,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_AE_A750KK107M1EAAE040" 575 735 50 H I C CNN
 F2 "connaxio-capacitors:CAP_AE_RAD_D8_H9_P3.5" 945 555 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "100µF" 50 50 50 H V L CNN "Capacitance"
+F4 "100µF" 50 50 50 H V L CNN "Property"
 F5 "4.5A at 100kHz" 290 455 50 H I C CNN "Current"
 F6 "KEMET" 120 1095 50 H I C CNN "Manufacturer"
 F7 "A750KK107M1EAAE040" 465 820 50 H I C CNN "Manufacturer Part Number"
@@ -64,7 +64,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_AE_ESK226M100AE3AA" 485 700 50 H I C CNN
 F2 "connaxio-capacitors:CAP_AE_RAD_D6.3_H12.5_P2.5" 940 865 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "22µF" 50 50 50 H V L CNN "Capacitance"
+F4 "22µF" 50 50 50 H V L CNN "Property"
 F5 "157mA at 10kHz" 310 620 50 H I C CNN "Current"
 F6 "KEMET" 125 1155 50 H I C CNN "Manufacturer"
 F7 "ESK226M100AE3AA" 355 780 50 H I C CNN "Manufacturer Part Number"
@@ -92,7 +92,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_CER_C1206X102K202T" 735 1195 50 H I C CNN
 F2 "connaxio-capacitors:CAP_CER_1206_3216M" 870 620 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "1nF" 50 50 50 H V L CNN "Capacitance"
+F4 "1nF" 50 50 50 H V L CNN "Property"
 F5 "Holy Stone Enterprise Co., Ltd." 675 555 50 H I C CNN "Manufacturer"
 F6 "C1206X102K202T" 735 1195 50 H I C CNN "Manufacturer Part Number"
 F7 "1206" 50 -150 50 H V L CNN "Package"
@@ -117,7 +117,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_CER_CL05A104KA5NNNC" 735 1195 50 H I C CNN
 F2 "connaxio-capacitors:CAP_CER_0402_1005M" 870 620 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "100nF" 50 50 50 H V L CNN "Capacitance"
+F4 "100nF" 50 50 50 H V L CNN "Property"
 F5 "Samsung Electro-Mechanics" 675 555 50 H I C CNN "Manufacturer"
 F6 "CL05A104KA5NNNC" 735 1195 50 H I C CNN "Manufacturer Part Number"
 F7 "0402" 50 -150 50 H V L CNN "Package"
@@ -142,7 +142,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_CER_CL05C050CB5NNNC" 735 1195 50 H I C CNN
 F2 "connaxio-capacitors:CAP_CER_0402_1005M" 870 620 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "5pF" 50 50 50 H V L CNN "Capacitance"
+F4 "5pF" 50 50 50 H V L CNN "Property"
 F5 "Samsung Electro-Mechanics" 675 555 50 H I C CNN "Manufacturer"
 F6 "CL05C050CB5NNNC" 735 1195 50 H I C CNN "Manufacturer Part Number"
 F7 "0402" 50 -150 50 H V L CNN "Package"
@@ -167,7 +167,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_CER_CL05C300JB5NNNC" 735 1195 50 H I C CNN
 F2 "connaxio-capacitors:CAP_CER_0402_1005M" 870 620 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "30pF" 50 50 50 H V L CNN "Capacitance"
+F4 "30pF" 50 50 50 H V L CNN "Property"
 F5 "Samsung Electro-Mechanics" 675 555 50 H I C CNN "Manufacturer"
 F6 "CL05C300JB5NNNC" 735 1195 50 H I C CNN "Manufacturer Part Number"
 F7 "0402" 50 -150 50 H V L CNN "Package"
@@ -192,7 +192,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_CER_CL21A226MPQNNNE" 735 1195 50 H I C CNN
 F2 "connaxio-capacitors:CAP_CER_0805_2012M" 870 620 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "22µF" 50 50 50 H V L CNN "Capacitance"
+F4 "22µF" 50 50 50 H V L CNN "Property"
 F5 "Samsung Electro-Mechanics" 675 555 50 H I C CNN "Manufacturer"
 F6 "CL21A226MPQNNNE" 735 1195 50 H I C CNN "Manufacturer Part Number"
 F7 "0805" 50 -150 50 H V L CNN "Package"
@@ -217,7 +217,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_CER_CL21B104KCFSFNE" 735 1195 50 H I C CNN
 F2 "connaxio-capacitors:CAP_CER_0805_2012M" 870 620 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "100nF" 50 50 50 H V L CNN "Capacitance"
+F4 "100nF" 50 50 50 H V L CNN "Property"
 F5 "Samsung Electro-Mechanics" 675 555 50 H I C CNN "Manufacturer"
 F6 "CL21B104KCFSFNE" 735 1195 50 H I C CNN "Manufacturer Part Number"
 F7 "0805" 50 -150 50 H V L CNN "Package"
@@ -242,7 +242,7 @@ F0 "C" 50 150 50 H V L CNN
 F1 "CAP_CER_DNI_0402" 735 1195 50 H I C CNN
 F2 "connaxio-capacitors:CAP_CER_0402_1005M" 870 620 50 H I C CNN
 F3 "" 65 125 50 H I C CNN
-F4 "DNI" 50 50 50 H V L CNN "Capacitance"
+F4 "DNI" 50 50 50 H V L CNN "Property"
 F5 "0402" 50 -150 50 H V L CNN "Package"
 F6 "No" 1225 1035 50 H I C CNN "Polarized"
 DRAW

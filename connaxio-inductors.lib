@@ -12,7 +12,7 @@ F4 "Abracon LLC" 375 350 50 H I C CNN "Manufacturer"
 F5 "ACML-0402HC-301-T" 550 525 50 H I C CNN "Manufacturer Part Number"
 F6 "-55°C to +125°C" 450 425 50 H I C CNN "Temperature"
 F7 "1A" 50 -50 50 H V L CNN "Current"
-F8 "300Ω" 50 50 50 H V L CNN "Inductance"
+F8 "300Ω" 50 50 50 H V L CNN "Property"
 F9 "0402" 50 -150 50 H V L CNN "Package"
 F10 "No" 255 235 50 H I C CNN "Polarized"
 DRAW
@@ -44,7 +44,7 @@ F1 "IND_SDED20161T-4R7MS" 650 600 50 H I C CNN
 F2 "connaxio-inductors:IND_0806_2016M" 135 710 50 H I C CNN
 F3 "" 105 260 50 H I C CNN
 F4 "760mA" 50 -50 50 H V L CNN "Current"
-F5 "4.7µH" 50 50 50 H V L CNN "Inductance"
+F5 "4.7µH" 50 50 50 H V L CNN "Property"
 F6 "Delta Electronics/Cyntec" 375 350 50 H I C CNN "Manufacturer"
 F7 "SDED20161T-4R7MS" 550 525 50 H I C CNN "Manufacturer Part Number"
 F8 "0806" 50 -150 50 H V L CNN "Package"
@@ -72,7 +72,7 @@ F1 "IND_SDEM25201B-1R0MS" 650 600 50 H I C CNN
 F2 "connaxio-inductors:IND_1008_2520M" 135 710 50 H I C CNN
 F3 "" 105 260 50 H I C CNN
 F4 "3.7A" 50 -50 50 H V L CNN "Current"
-F5 "1µH" 50 50 50 H V L CNN "Inductance"
+F5 "1µH" 50 50 50 H V L CNN "Property"
 F6 "Delta Electronics/Cyntec" 375 350 50 H I C CNN "Manufacturer"
 F7 "SDEM25201B-1R0MS" 550 525 50 H I C CNN "Manufacturer Part Number"
 F8 "1008" 50 -150 50 H V L CNN "Package"
@@ -100,7 +100,7 @@ F1 "XFMR_PA3855.002NLT" 650 600 50 H I C CNN
 F2 "connaxio-inductors:XFMR_EP13Plus" 135 710 50 H I C CNN
 F3 "" -695 610 50 H I C CNN
 F4 "6A" -800 350 50 H I L CNN "Current"
-F5 "48µH" -800 450 50 H I L CNN "Inductance"
+F5 "48µH" -800 450 50 H I L CNN "Property"
 F6 "Pulse Electronics Power" 375 350 50 H I C CNN "Manufacturer"
 F7 "PA3855.002NLT" 0 50 50 H V L CNN "Manufacturer Part Number"
 F8 "XFMR-10" -800 250 50 H I L CNN "Package"

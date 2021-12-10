@@ -11,9 +11,10 @@ F3 "" 0 0 50 H I C CNN
 F4 "3A" 350 250 50 H I C CNN "Current"
 F5 "No" 350 250 50 H I C CNN "Polarized"
 F6 "-40°C to +105°C" 350 600 50 H I C CNN "Temperature"
-F7 "100mils" 150 -750 50 V V C CNN "Spacing"
+F7 "100mils" 150 -750 50 V V C CNN "Property"
 F8 "350V" 50 225 50 H I C CNN "Voltage"
-F9 "Male" 50 -750 50 V V C CNN "Type"
+F9 "Male" 50 -750 50 V V C CNN "Note"
+F10 "TH" 77 687 50 H I C CNN "Package"
 DRAW
 S 0 0 200 -1500 0 1 0 f
 X 1 1 300 -100 100 L 50 50 1 1 P
@@ -43,9 +44,10 @@ F3 "" 0 0 50 H I C CNN
 F4 "3A" 350 250 50 H I C CNN "Current"
 F5 "No" 350 250 50 H I C CNN "Polarized"
 F6 "-40°C to +105°C" 350 600 50 H I C CNN "Temperature"
-F7 "100mils" 150 -750 50 V V C CNN "Spacing"
+F7 "100mils" 150 -750 50 V V C CNN "Property"
 F8 "350V" 50 225 50 H I C CNN "Voltage"
-F9 "Male" 50 -750 50 V V C CNN "Type"
+F9 "Male" 50 -750 50 V V C CNN "Note"
+F10 "TH" 48 140 50 H I C CNN "Package"
 DRAW
 S 0 0 200 -1600 0 1 0 f
 X 1 1 300 -100 100 L 50 50 1 1 P
@@ -76,9 +78,10 @@ F3 "" 0 0 50 H I C CNN
 F4 "3A" 350 250 50 H I C CNN "Current"
 F5 "No" 350 250 50 H I C CNN "Polarized"
 F6 "-40°C to +105°C" 300 600 50 H I C CNN "Temperature"
-F7 "100mils" 150 -200 50 V V C CNN "Spacing"
+F7 "100mils" 150 -200 50 V V C CNN "Property"
 F8 "350V" 50 225 50 H I C CNN "Voltage"
-F9 "Male" 50 -200 50 V V C CNN "Type"
+F9 "Male" 50 -200 50 V V C CNN "Note"
+F10 "TH" 59 155 50 H I C CNN "Package"
 DRAW
 S 0 0 200 -400 0 1 0 f
 X 1 1 300 -100 100 L 50 50 1 1 P
@@ -97,9 +100,10 @@ F3 "" 0 0 50 H I C CNN
 F4 "3A" 350 250 50 H I C CNN "Current"
 F5 "No" 350 250 50 H I C CNN "Polarized"
 F6 "-40°C to +105°C" 350 600 50 H I C CNN "Temperature"
-F7 "100mils" 150 -250 50 V V C CNN "Spacing"
+F7 "100mils" 150 -250 50 V V C CNN "Property"
 F8 "350V" 50 225 50 H I C CNN "Voltage"
-F9 "Male" 50 -250 50 V V C CNN "Type"
+F9 "Male" 50 -250 50 V V C CNN "Note"
+F10 "TH" 51 145 50 H I C CNN "Package"
 DRAW
 S 0 0 200 -500 0 1 0 f
 X 1 1 300 -100 100 L 50 50 1 1 P
@@ -114,7 +118,7 @@ ENDDEF
 DEF CON_RJ45_POE+_ARJM11C7-104-AB-EW2 J 0 20 Y Y 1 F N
 F0 "J" 0 150 50 H V L CNN
 F1 "CON_RJ45_POE+_ARJM11C7-104-AB-EW2" 775 700 50 H I C CNN
-F2 "" 25 125 50 H I C CNN
+F2 "connaxio-connectors:CON_RJ45_POE+_ARJM11C7-104-AB-EW2" 25 125 50 H I C CNN
 F3 "" 25 125 50 H I C CNN
 F4 "600mA" 125 575 50 H I C CNN "Current"
 F5 "Abracon LLC" 250 775 50 H I C CNN "Manufacturer"
@@ -123,6 +127,7 @@ F7 "TH" 50 400 50 H I C CNN "Package"
 F8 "Yes" 50 475 50 H I C CNN "Polarized"
 F9 "-40°C to +85°C" 300 625 50 H I C CNN "Temperature"
 F10 "57V" 0 850 50 H I L CNN "Voltage"
+F11 "PoE+" 130 292 50 H I C CNN "Property"
 DRAW
 A 250 -275 25 -899 899 0 1 0 N 250 -300 250 -250
 A 250 -225 25 -899 899 0 1 0 N 250 -250 250 -200
@@ -269,15 +274,16 @@ ENDDEF
 DEF CON_USB-C_USB4105-GF-A J 0 40 Y Y 1 F N
 F0 "J" 0 150 50 H V L CNN
 F1 "CON_USB-C_USB4105-GF-A" 480 300 50 H I C CNN
-F2 "" 0 0 50 H I C CNN
+F2 "connaxio-connectors:CON_USB-C_USB4105-GF-A" 0 0 50 H I C CNN
 F3 "" 0 0 50 H I C CNN
-F4 "GCT" 90 730 50 H I C CNN "Manufacturer"
+F4 "GCT" 218 727 50 H I C CNN "Manufacturer"
 F5 "USB4105-GF-A" 0 50 50 H V L CNN "Manufacturer Part Number"
-F6 "20V" 90 730 50 H I C CNN "Voltage"
+F6 "20V" 218 727 50 H I C CNN "Voltage"
 F7 "5A" 90 730 50 H I C CNN "Current"
 F8 "-40°C to +85°C" 310 470 50 H I C CNN "Temperature"
 F9 "USB-C" 150 580 50 H I C CNN "Package"
-F10 "Yes" 90 730 50 H I C CNN "Polarized"
+F10 "Yes" 218 727 50 H I C CNN "Polarized"
+F11 "USB 2.0" 181 812 50 H I C CNN "Property"
 DRAW
 S 0 0 350 -1700 0 1 0 f
 X A1B12 1 450 -1100 100 L 50 50 1 1 P
