@@ -24,6 +24,11 @@ D RES 40.7K OHM 1% 1/16W 0402
 F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
 $ENDCMP
 #
+$CMP RES_RMCF0402FT41K2
+D RES 41.2K OHM 1% 1/16W 0402
+F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
+$ENDCMP
+#
 $CMP RES_RMCF0402FT42K2
 D RES 42.2K OHM 1% 1/16W 0402
 F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
@@ -46,6 +51,16 @@ $ENDCMP
 #
 $CMP RES_RMCF1206FT41K2
 D RES 41.2K OHM 1% 1/4W 1206
+F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
+$ENDCMP
+#
+$CMP RES_RMCF1206FT732R
+D RES 732 OHM 1% 1/4W 1206
+F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
+$ENDCMP
+#
+$CMP RES_RMCF1206FT806R
+D RES 806 OHM 1% 1/4W 1206
 F https://www.seielect.com/catalog/sei-rmcf_rmcp.pdf
 $ENDCMP
 #
