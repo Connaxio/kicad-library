@@ -431,24 +431,24 @@ Shape { geometry IndexedFaceSet
 { creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
 coord Coordinate { point [-2.35236 2.39173 0.31496,-2.35236 -2.4311 0.31496,-2.35236 -2.4311 0.94488,-2.35236 2.39173 0.94488]
 }}
-appearance Appearance{material USE MET-01 }}
+appearance Appearance{material USE MET-ALUMINUM }}
 Shape { geometry IndexedFaceSet 
 { creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
 coord Coordinate { point [2.35236 2.39173 0.31496,-2.35236 2.39173 0.31496,-2.35236 2.39173 0.94488,2.35236 2.39173 0.94488]
 }}
-appearance Appearance{material USE MET-01 }}
+appearance Appearance{material USE MET-ALUMINUM }}
 Shape { geometry IndexedFaceSet 
 { creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
 coord Coordinate { point [2.35236 -2.4311 0.31496,2.35236 2.39173 0.31496,2.35236 2.39173 0.94488,2.35236 -2.4311 0.94488]
 }}
-appearance Appearance{material USE MET-01 }}
+appearance Appearance{material USE MET-ALUMINUM }}
 Shape { geometry IndexedFaceSet 
 { creaseAngle 0.50 coordIndex [0,1,2,-1,0,2,3,-1]
 coord Coordinate { point [-2.35236 -2.4311 0.31496,2.35236 -2.4311 0.31496,2.35236 -2.4311 0.94488,-2.35236 -2.4311 0.94488]
 }}
-appearance Appearance{material USE MET-01 }}
+appearance Appearance{material USE MET-ALUMINUM }}
 Shape { geometry IndexedFaceSet 
 { creaseAngle 0.50 coordIndex [0,1,2,-1,2,1,3,-1]
 coord Coordinate { point [2.35236 2.39173 0.94488,-2.35236 2.39173 0.94488,2.35236 -2.4311 0.94488,-2.35236 -2.4311 0.94488]
 }}
-appearance Appearance{material USE MET-01 }}
+appearance Appearance{material USE MET-ALUMINUM }}
