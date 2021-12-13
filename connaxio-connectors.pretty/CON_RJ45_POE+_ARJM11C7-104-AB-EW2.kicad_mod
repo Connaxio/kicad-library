@@ -1,4 +1,4 @@
-(module CON_RJ45_POE+_ARJM11C7-104-AB-EW2 (layer F.Cu) (tedit 61B4346C)
+(module CON_RJ45_POE+_ARJM11C7-104-AB-EW2 (layer F.Cu) (tedit 61B721B1)
   (descr "Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)")
   (tags "ethernet 8p8c transformer poe rj45")
   (solder_mask_margin 0.05)
