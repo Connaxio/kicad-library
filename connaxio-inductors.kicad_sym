@@ -337,7 +337,7 @@
     (property "Footprint" "connaxio-inductors:XFMR_EP13Plus" (id 2) (at 3.429 18.034 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Datasheet" "https://productfinder.pulseeng.com/products/datasheets/P719.pdf" (id 3) (at -17.653 15.494 0)
+    (property "Datasheet" "https://productfinder.pulseeng.com/products/datasheets/P719.pdf" (id 3) (at 7.62 21.59 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "Current" "6A" (id 4) (at -20.32 8.89 0)
