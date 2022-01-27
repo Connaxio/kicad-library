@@ -914,7 +914,7 @@
       )
     )
   )
-  (symbol "CAP_CER_DNI_0402" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom yes) (on_board yes)
+  (symbol "CAP_CER_DNI_0402" (pin_numbers hide) (pin_names (offset 1.016) hide) (in_bom no) (on_board yes)
     (property "Reference" "C" (id 0) (at 1.27 3.81 0)
       (effects (font (size 1.27 1.27)) (justify left))
     )
