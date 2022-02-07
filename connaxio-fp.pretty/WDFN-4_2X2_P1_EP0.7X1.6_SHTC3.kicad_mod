@@ -1,6 +1,6 @@
 (footprint "WDFN-4_2X2_P1_EP0.7X1.6_SHTC3" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D74A40)
+  (tedit 61F3518C)
   (descr "DFN8 2x2, 0.5P; No exposed pad (http://www.onsemi.com/pub/Collateral/NCP4308-D.PDF)")
   (tags "DFN 0.5")
   (solder_mask_margin 0.0508)
