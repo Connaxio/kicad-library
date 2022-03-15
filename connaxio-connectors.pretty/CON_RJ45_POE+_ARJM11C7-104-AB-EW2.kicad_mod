@@ -1,6 +1,6 @@
 (footprint "CON_RJ45_POE+_ARJM11C7-104-AB-EW2" (version 20211014) (generator pcbnew)
   (layer "F.Cu")
-  (tedit 61D89BE0)
+  (tedit 622FBB86)
   (descr "Shielded RJ45 ethernet connector with transformer and POE (https://abracon.com/Magnetics/lan/ARJP11A.PDF)")
   (tags "ethernet 8p8c transformer poe rj45")
   (solder_mask_margin 0.05)

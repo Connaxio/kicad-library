@@ -364,7 +364,7 @@
     (property "Tolerance" "±10%" (id 11) (at -13.97 14.224 0)
       (effects (font (size 1.27 1.27)) hide)
     )
-    (property "Voltage" "57V" (id 12) (at 0 0 0)
+    (property "Voltage" "57V" (id 12) (at 1.27 6.35 0)
       (effects (font (size 1.27 1.27)) hide)
     )
     (property "ki_description" "TRANSFORMER FLYBACK 48UH SMD" (id 13) (at 0 0 0)
