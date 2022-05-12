@@ -52,9 +52,9 @@
   (pad "" smd roundrect (at -0.51 0.59) (size 1.65 0.95) (layers "F.Paste") (roundrect_rratio 0.2) (tstamp b46e4178-12e8-455c-a14d-979ddc1da965))
   (pad "1" smd roundrect (at -1.45 0) (size 3.6 2.2) (layers "F.Cu" "F.Mask") (roundrect_rratio 0.1) (tstamp 88a3fa09-9050-4a94-a796-98b43c4981e7))
   (pad "2" smd roundrect (at 2.25 0) (size 2 1.8) (layers "F.Cu" "F.Paste" "F.Mask") (roundrect_rratio 0.1) (tstamp 5881ee20-278a-4e12-9254-07f1db1cba4c))
-  (model ":CONNAXIO_KICAD_LIB_DIR:connaxio-diodes.3dshapes/DO-214AC_SMA.wrl"
+  (model ":CONNAXIO_KICAD_LIB_DIR:connaxio-diodes.3dshapes/DO-221BC_SMPA.wrl"
     (offset (xyz 0 0 0))
-    (scale (xyz 1 1 0.4))
+    (scale (xyz 1 1 1))
     (rotate (xyz 0 0 0))
   )
 )
