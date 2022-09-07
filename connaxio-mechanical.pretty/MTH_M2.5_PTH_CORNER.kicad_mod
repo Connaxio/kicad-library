@@ -19,7 +19,7 @@
   (fp_circle (center 0 0) (end 1.375 0) (layer "B.Mask") (width 2.75) (fill none) (tstamp b37dcd16-0bd1-44f6-8b07-6a87f4494b07))
   (fp_circle (center 0 0) (end 1.375 0) (layer "F.Mask") (width 2.75) (fill none) (tstamp f4e30b1e-5ed6-42c5-8fc2-00e40fe56efd))
   (fp_circle (center 0 0) (end 2.85 0) (layer "F.CrtYd") (width 0.05) (fill none) (tstamp f55fb456-49fd-4f9c-8e74-b05903f62e15))
-  (pad "1" thru_hole custom (at 0 0) (size 4.5 4.5) (drill 2.7) (layers *.Cu *.Mask)
+  (pad "1" thru_hole custom (at 0 0) (size 4.5 4.5) (drill 3) (layers *.Cu *.Mask)
     (zone_connect 2)
     (options (clearance outline) (anchor circle))
     (primitives
@@ -31,7 +31,7 @@
           (xy -1.65 1.5)
           (xy 1.65 1.5)
         ) (width 0) (fill yes))
-  (gr_arc (start -1.498611 2.001041) (mid -1.765609 1.769922) (end -1.997379 1.503488) (width 0.5))
+  (gr_arc (start -1.498611 2.001041) (mid -1.764064 1.771462) (end -1.994752 1.506972) (width 0.5))
           (gr_poly (pts
           (xy -2.2 1.65)
           (xy -2.25 1.58)
@@ -40,8 +40,8 @@
           (xy -1.5 -1.65)
           (xy -1.5 1.65)
         ) (width 0) (fill yes))
-  (gr_arc (start -2.001041 -1.49861) (mid 1.765608 -1.769922) (end 1.503488 1.997378) (width 0.5))
-  (gr_arc (start -1.002439 1.998777) (mid -1.580723 1.581553) (end -1.998251 1.003488) (width 0.12))
+  (gr_arc (start -2.001041 -1.49861) (mid 1.764063 -1.771462) (end 1.506972 1.994751) (width 0.5))
+  (gr_arc (start -1.002439 1.998777) (mid -1.580722 1.581554) (end -1.99825 1.00349) (width 0.12))
   (gr_arc (start -1.998777 -1.002439) (mid 1.580723 -1.581553) (end 1.003488 1.998251) (width 0.12))
     ) (tstamp 94ff1689-ab80-4ed2-ab72-7e40fbcf4070))
 )
