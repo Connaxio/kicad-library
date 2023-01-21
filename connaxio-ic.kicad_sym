@@ -217,7 +217,7 @@
     (property "Footprint" "connaxio-fp:QFN-24_4x4_P0.5_EP2.7X2.7" (id 2) (at 0 33.02 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
-    (property "Datasheet" "file:///media/veracrypt1/Downloads/A4957-Datasheet-2.pdf" (id 3) (at 0 30.48 0)
+    (property "Datasheet" "https://www.allegromicro.com/-/media/files/datasheets/a4957-datasheet.pdf" (id 3) (at 0 30.48 0)
       (effects (font (size 1.27 1.27)) (justify left) hide)
     )
     (property "Current" "" (id 4) (at 0 27.94 0)
